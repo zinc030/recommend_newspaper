@@ -1,5 +1,3 @@
-#오아연 2016106125
-
 import pandas as pd
 import selenium
 from selenium import webdriver
